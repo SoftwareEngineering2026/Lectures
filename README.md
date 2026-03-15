@@ -1,1 +1,1 @@
-# Lectures
+# Lecture materials in PDF for Software engeneering course
